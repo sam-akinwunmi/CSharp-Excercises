@@ -1,0 +1,6 @@
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 6\GreatestCommonDivisor(GCD)\GreatestCommonDivisor(GCD)\bin\Debug\GreatestCommonDivisor(GCD).exe.config
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 6\GreatestCommonDivisor(GCD)\GreatestCommonDivisor(GCD)\bin\Debug\GreatestCommonDivisor(GCD).exe
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 6\GreatestCommonDivisor(GCD)\GreatestCommonDivisor(GCD)\bin\Debug\GreatestCommonDivisor(GCD).pdb
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 6\GreatestCommonDivisor(GCD)\GreatestCommonDivisor(GCD)\obj\Debug\GreatestCommonDivisor(GCD).csprojResolveAssemblyReference.cache
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 6\GreatestCommonDivisor(GCD)\GreatestCommonDivisor(GCD)\obj\Debug\GreatestCommonDivisor(GCD).exe
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 6\GreatestCommonDivisor(GCD)\GreatestCommonDivisor(GCD)\obj\Debug\GreatestCommonDivisor(GCD).pdb

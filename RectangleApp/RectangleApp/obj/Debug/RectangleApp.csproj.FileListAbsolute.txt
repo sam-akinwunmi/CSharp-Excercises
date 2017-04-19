@@ -1,0 +1,6 @@
+c:\users\samuela\documents\visual studio 2015\Projects\RectangleApp\RectangleApp\bin\Debug\RectangleApp.exe.config
+c:\users\samuela\documents\visual studio 2015\Projects\RectangleApp\RectangleApp\bin\Debug\RectangleApp.exe
+c:\users\samuela\documents\visual studio 2015\Projects\RectangleApp\RectangleApp\bin\Debug\RectangleApp.pdb
+c:\users\samuela\documents\visual studio 2015\Projects\RectangleApp\RectangleApp\obj\Debug\RectangleApp.csprojResolveAssemblyReference.cache
+c:\users\samuela\documents\visual studio 2015\Projects\RectangleApp\RectangleApp\obj\Debug\RectangleApp.exe
+c:\users\samuela\documents\visual studio 2015\Projects\RectangleApp\RectangleApp\obj\Debug\RectangleApp.pdb

@@ -1,0 +1,5 @@
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 2\HeartOfO\HeartOfO\bin\Debug\HeartOfO.exe.config
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 2\HeartOfO\HeartOfO\bin\Debug\HeartOfO.exe
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 2\HeartOfO\HeartOfO\bin\Debug\HeartOfO.pdb
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 2\HeartOfO\HeartOfO\obj\Debug\HeartOfO.exe
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 2\HeartOfO\HeartOfO\obj\Debug\HeartOfO.pdb

@@ -1,0 +1,6 @@
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 3\AreaOfATrapeziod\AreaOfATrapeziod\bin\Debug\AreaOfATrapeziod.exe.config
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 3\AreaOfATrapeziod\AreaOfATrapeziod\bin\Debug\AreaOfATrapeziod.exe
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 3\AreaOfATrapeziod\AreaOfATrapeziod\bin\Debug\AreaOfATrapeziod.pdb
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 3\AreaOfATrapeziod\AreaOfATrapeziod\obj\Debug\AreaOfATrapeziod.csprojResolveAssemblyReference.cache
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 3\AreaOfATrapeziod\AreaOfATrapeziod\obj\Debug\AreaOfATrapeziod.exe
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 3\AreaOfATrapeziod\AreaOfATrapeziod\obj\Debug\AreaOfATrapeziod.pdb

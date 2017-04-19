@@ -1,0 +1,5 @@
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 4\TheRemainderOfTheirDivisionBy5is0\TheRemainderOfTheirDivisionBy5is0\bin\Debug\TheRemainderOfTheirDivisionBy5is0.exe.config
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 4\TheRemainderOfTheirDivisionBy5is0\TheRemainderOfTheirDivisionBy5is0\bin\Debug\TheRemainderOfTheirDivisionBy5is0.exe
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 4\TheRemainderOfTheirDivisionBy5is0\TheRemainderOfTheirDivisionBy5is0\bin\Debug\TheRemainderOfTheirDivisionBy5is0.pdb
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 4\TheRemainderOfTheirDivisionBy5is0\TheRemainderOfTheirDivisionBy5is0\obj\Debug\TheRemainderOfTheirDivisionBy5is0.exe
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 4\TheRemainderOfTheirDivisionBy5is0\TheRemainderOfTheirDivisionBy5is0\obj\Debug\TheRemainderOfTheirDivisionBy5is0.pdb

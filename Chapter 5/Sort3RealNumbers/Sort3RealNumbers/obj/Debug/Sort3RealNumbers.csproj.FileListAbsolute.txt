@@ -1,0 +1,6 @@
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 5\Sort3RealNumbers\Sort3RealNumbers\bin\Debug\Sort3RealNumbers.exe.config
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 5\Sort3RealNumbers\Sort3RealNumbers\bin\Debug\Sort3RealNumbers.exe
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 5\Sort3RealNumbers\Sort3RealNumbers\bin\Debug\Sort3RealNumbers.pdb
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 5\Sort3RealNumbers\Sort3RealNumbers\obj\Debug\Sort3RealNumbers.csprojResolveAssemblyReference.cache
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 5\Sort3RealNumbers\Sort3RealNumbers\obj\Debug\Sort3RealNumbers.exe
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 5\Sort3RealNumbers\Sort3RealNumbers\obj\Debug\Sort3RealNumbers.pdb

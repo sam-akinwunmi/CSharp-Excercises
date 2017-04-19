@@ -1,0 +1,6 @@
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 3\SideEffectOfExpressions\SideEffectOfExpressions\bin\Debug\SideEffectOfExpressions.exe.config
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 3\SideEffectOfExpressions\SideEffectOfExpressions\bin\Debug\SideEffectOfExpressions.exe
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 3\SideEffectOfExpressions\SideEffectOfExpressions\bin\Debug\SideEffectOfExpressions.pdb
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 3\SideEffectOfExpressions\SideEffectOfExpressions\obj\Debug\SideEffectOfExpressions.csprojResolveAssemblyReference.cache
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 3\SideEffectOfExpressions\SideEffectOfExpressions\obj\Debug\SideEffectOfExpressions.exe
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 3\SideEffectOfExpressions\SideEffectOfExpressions\obj\Debug\SideEffectOfExpressions.pdb

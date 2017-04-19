@@ -1,0 +1,6 @@
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 7\MaximalSequenceOfIncreasingElements\MaximalSequenceOfIncreasingElements\bin\Debug\MaximalSequenceOfIncreasingElements.exe.config
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 7\MaximalSequenceOfIncreasingElements\MaximalSequenceOfIncreasingElements\bin\Debug\MaximalSequenceOfIncreasingElements.exe
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 7\MaximalSequenceOfIncreasingElements\MaximalSequenceOfIncreasingElements\bin\Debug\MaximalSequenceOfIncreasingElements.pdb
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 7\MaximalSequenceOfIncreasingElements\MaximalSequenceOfIncreasingElements\obj\Debug\MaximalSequenceOfIncreasingElements.csprojResolveAssemblyReference.cache
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 7\MaximalSequenceOfIncreasingElements\MaximalSequenceOfIncreasingElements\obj\Debug\MaximalSequenceOfIncreasingElements.exe
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 7\MaximalSequenceOfIncreasingElements\MaximalSequenceOfIncreasingElements\obj\Debug\MaximalSequenceOfIncreasingElements.pdb

@@ -1,0 +1,5 @@
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 4\ReadsRadiusPerimeterAndArea\ReadsRadiusPerimeterAndArea\bin\Debug\ReadsRadiusPerimeterAndArea.exe.config
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 4\ReadsRadiusPerimeterAndArea\ReadsRadiusPerimeterAndArea\bin\Debug\ReadsRadiusPerimeterAndArea.exe
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 4\ReadsRadiusPerimeterAndArea\ReadsRadiusPerimeterAndArea\bin\Debug\ReadsRadiusPerimeterAndArea.pdb
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 4\ReadsRadiusPerimeterAndArea\ReadsRadiusPerimeterAndArea\obj\Debug\ReadsRadiusPerimeterAndArea.exe
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 4\ReadsRadiusPerimeterAndArea\ReadsRadiusPerimeterAndArea\obj\Debug\ReadsRadiusPerimeterAndArea.pdb

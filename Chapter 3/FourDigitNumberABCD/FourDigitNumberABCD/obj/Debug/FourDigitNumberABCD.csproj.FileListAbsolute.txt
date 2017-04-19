@@ -1,0 +1,6 @@
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 3\FourDigitNumberABCD\FourDigitNumberABCD\bin\Debug\FourDigitNumberABCD.exe.config
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 3\FourDigitNumberABCD\FourDigitNumberABCD\bin\Debug\FourDigitNumberABCD.exe
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 3\FourDigitNumberABCD\FourDigitNumberABCD\bin\Debug\FourDigitNumberABCD.pdb
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 3\FourDigitNumberABCD\FourDigitNumberABCD\obj\Debug\FourDigitNumberABCD.csprojResolveAssemblyReference.cache
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 3\FourDigitNumberABCD\FourDigitNumberABCD\obj\Debug\FourDigitNumberABCD.exe
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 3\FourDigitNumberABCD\FourDigitNumberABCD\obj\Debug\FourDigitNumberABCD.pdb

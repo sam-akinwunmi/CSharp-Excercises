@@ -1,0 +1,5 @@
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 6\SmallestLargest\SmallestLargest\bin\Debug\SmallestLargest.exe.config
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 6\SmallestLargest\SmallestLargest\bin\Debug\SmallestLargest.exe
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 6\SmallestLargest\SmallestLargest\bin\Debug\SmallestLargest.pdb
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 6\SmallestLargest\SmallestLargest\obj\Debug\SmallestLargest.exe
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 6\SmallestLargest\SmallestLargest\obj\Debug\SmallestLargest.pdb

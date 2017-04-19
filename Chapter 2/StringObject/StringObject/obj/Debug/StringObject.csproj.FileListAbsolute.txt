@@ -1,0 +1,5 @@
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 2\StringObject\StringObject\bin\Debug\StringObject.exe.config
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 2\StringObject\StringObject\bin\Debug\StringObject.exe
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 2\StringObject\StringObject\bin\Debug\StringObject.pdb
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 2\StringObject\StringObject\obj\Debug\StringObject.exe
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 2\StringObject\StringObject\obj\Debug\StringObject.pdb

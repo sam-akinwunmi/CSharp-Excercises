@@ -1,0 +1,6 @@
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 6\NXCalculateTheSum\NXCalculateTheSum\bin\Debug\NXCalculateTheSum.exe.config
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 6\NXCalculateTheSum\NXCalculateTheSum\bin\Debug\NXCalculateTheSum.exe
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 6\NXCalculateTheSum\NXCalculateTheSum\bin\Debug\NXCalculateTheSum.pdb
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 6\NXCalculateTheSum\NXCalculateTheSum\obj\Debug\NXCalculateTheSum.csprojResolveAssemblyReference.cache
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 6\NXCalculateTheSum\NXCalculateTheSum\obj\Debug\NXCalculateTheSum.exe
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 6\NXCalculateTheSum\NXCalculateTheSum\obj\Debug\NXCalculateTheSum.pdb

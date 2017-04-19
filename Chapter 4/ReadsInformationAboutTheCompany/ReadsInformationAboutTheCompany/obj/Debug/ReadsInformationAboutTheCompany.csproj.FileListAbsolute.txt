@@ -1,0 +1,6 @@
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 4\ReadsInformationAboutTheCompany\ReadsInformationAboutTheCompany\bin\Debug\ReadsInformationAboutTheCompany.exe.config
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 4\ReadsInformationAboutTheCompany\ReadsInformationAboutTheCompany\bin\Debug\ReadsInformationAboutTheCompany.exe
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 4\ReadsInformationAboutTheCompany\ReadsInformationAboutTheCompany\bin\Debug\ReadsInformationAboutTheCompany.pdb
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 4\ReadsInformationAboutTheCompany\ReadsInformationAboutTheCompany\obj\Debug\ReadsInformationAboutTheCompany.exe
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 4\ReadsInformationAboutTheCompany\ReadsInformationAboutTheCompany\obj\Debug\ReadsInformationAboutTheCompany.pdb
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 4\ReadsInformationAboutTheCompany\ReadsInformationAboutTheCompany\obj\Debug\ReadsInformationAboutTheCompany.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 1\SquareRootOf12345\SquareRootOf12345\bin\Debug\SquareRootOf12345.exe.config
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 1\SquareRootOf12345\SquareRootOf12345\bin\Debug\SquareRootOf12345.exe
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 1\SquareRootOf12345\SquareRootOf12345\bin\Debug\SquareRootOf12345.pdb
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 1\SquareRootOf12345\SquareRootOf12345\obj\Debug\SquareRootOf12345.exe
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 1\SquareRootOf12345\SquareRootOf12345\obj\Debug\SquareRootOf12345.pdb

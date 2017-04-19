@@ -1,0 +1,10 @@
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Spotify\LateNightSpotify\LateNightSpotify\bin\Debug\LateNightSpotify.exe.config
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Spotify\LateNightSpotify\LateNightSpotify\bin\Debug\LateNightSpotify.exe
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Spotify\LateNightSpotify\LateNightSpotify\bin\Debug\LateNightSpotify.pdb
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Spotify\LateNightSpotify\LateNightSpotify\bin\Debug\Newtonsoft.Json.dll
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Spotify\LateNightSpotify\LateNightSpotify\bin\Debug\SpotifyAPI.dll
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Spotify\LateNightSpotify\LateNightSpotify\bin\Debug\Newtonsoft.Json.xml
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Spotify\LateNightSpotify\LateNightSpotify\bin\Debug\SpotifyAPI.xml
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Spotify\LateNightSpotify\LateNightSpotify\obj\Debug\LateNightSpotify.csprojResolveAssemblyReference.cache
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Spotify\LateNightSpotify\LateNightSpotify\obj\Debug\LateNightSpotify.exe
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Spotify\LateNightSpotify\LateNightSpotify\obj\Debug\LateNightSpotify.pdb

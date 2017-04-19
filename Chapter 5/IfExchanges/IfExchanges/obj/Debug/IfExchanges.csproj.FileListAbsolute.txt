@@ -1,0 +1,6 @@
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 5\IfExchanges\IfExchanges\bin\Debug\IfExchanges.exe.config
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 5\IfExchanges\IfExchanges\obj\Debug\IfExchanges.csprojResolveAssemblyReference.cache
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 5\IfExchanges\IfExchanges\bin\Debug\IfExchanges.exe
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 5\IfExchanges\IfExchanges\bin\Debug\IfExchanges.pdb
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 5\IfExchanges\IfExchanges\obj\Debug\IfExchanges.exe
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 5\IfExchanges\IfExchanges\obj\Debug\IfExchanges.pdb

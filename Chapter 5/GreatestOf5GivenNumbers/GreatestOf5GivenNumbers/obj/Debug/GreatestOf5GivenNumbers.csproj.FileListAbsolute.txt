@@ -1,0 +1,5 @@
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 5\GreatestOf5GivenNumbers\GreatestOf5GivenNumbers\bin\Debug\GreatestOf5GivenNumbers.exe.config
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 5\GreatestOf5GivenNumbers\GreatestOf5GivenNumbers\bin\Debug\GreatestOf5GivenNumbers.exe
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 5\GreatestOf5GivenNumbers\GreatestOf5GivenNumbers\bin\Debug\GreatestOf5GivenNumbers.pdb
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 5\GreatestOf5GivenNumbers\GreatestOf5GivenNumbers\obj\Debug\GreatestOf5GivenNumbers.exe
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 5\GreatestOf5GivenNumbers\GreatestOf5GivenNumbers\obj\Debug\GreatestOf5GivenNumbers.pdb

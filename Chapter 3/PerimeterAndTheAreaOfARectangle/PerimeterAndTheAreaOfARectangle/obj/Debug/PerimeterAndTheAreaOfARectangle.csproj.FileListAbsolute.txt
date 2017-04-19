@@ -1,0 +1,6 @@
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 3\PerimeterAndTheAreaOfARectangle\PerimeterAndTheAreaOfARectangle\bin\Debug\PerimeterAndTheAreaOfARectangle.exe.config
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 3\PerimeterAndTheAreaOfARectangle\PerimeterAndTheAreaOfARectangle\bin\Debug\PerimeterAndTheAreaOfARectangle.exe
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 3\PerimeterAndTheAreaOfARectangle\PerimeterAndTheAreaOfARectangle\bin\Debug\PerimeterAndTheAreaOfARectangle.pdb
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 3\PerimeterAndTheAreaOfARectangle\PerimeterAndTheAreaOfARectangle\obj\Debug\PerimeterAndTheAreaOfARectangle.csprojResolveAssemblyReference.cache
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 3\PerimeterAndTheAreaOfARectangle\PerimeterAndTheAreaOfARectangle\obj\Debug\PerimeterAndTheAreaOfARectangle.exe
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 3\PerimeterAndTheAreaOfARectangle\PerimeterAndTheAreaOfARectangle\obj\Debug\PerimeterAndTheAreaOfARectangle.pdb

@@ -1,0 +1,6 @@
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 3\WeightOfAManOnTheMoon\WeightOfAManOnTheMoon\bin\Debug\WeightOfAManOnTheMoon.exe.config
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 3\WeightOfAManOnTheMoon\WeightOfAManOnTheMoon\bin\Debug\WeightOfAManOnTheMoon.exe
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 3\WeightOfAManOnTheMoon\WeightOfAManOnTheMoon\bin\Debug\WeightOfAManOnTheMoon.pdb
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 3\WeightOfAManOnTheMoon\WeightOfAManOnTheMoon\obj\Debug\WeightOfAManOnTheMoon.csprojResolveAssemblyReference.cache
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 3\WeightOfAManOnTheMoon\WeightOfAManOnTheMoon\obj\Debug\WeightOfAManOnTheMoon.exe
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 3\WeightOfAManOnTheMoon\WeightOfAManOnTheMoon\obj\Debug\WeightOfAManOnTheMoon.pdb

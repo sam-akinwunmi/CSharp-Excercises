@@ -1,0 +1,6 @@
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 5\Chapter5Examples\Chapter5Examples\bin\Debug\Chapter5Examples.exe.config
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 5\Chapter5Examples\Chapter5Examples\bin\Debug\Chapter5Examples.exe
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 5\Chapter5Examples\Chapter5Examples\bin\Debug\Chapter5Examples.pdb
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 5\Chapter5Examples\Chapter5Examples\obj\Debug\Chapter5Examples.csprojResolveAssemblyReference.cache
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 5\Chapter5Examples\Chapter5Examples\obj\Debug\Chapter5Examples.exe
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 5\Chapter5Examples\Chapter5Examples\obj\Debug\Chapter5Examples.pdb

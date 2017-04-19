@@ -1,0 +1,6 @@
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 7\20ElementsOfTypeInteger\20ElementsOfTypeInteger\bin\Debug\20ElementsOfTypeInteger.exe.config
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 7\20ElementsOfTypeInteger\20ElementsOfTypeInteger\bin\Debug\20ElementsOfTypeInteger.exe
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 7\20ElementsOfTypeInteger\20ElementsOfTypeInteger\bin\Debug\20ElementsOfTypeInteger.pdb
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 7\20ElementsOfTypeInteger\20ElementsOfTypeInteger\obj\Debug\20ElementsOfTypeInteger.csprojResolveAssemblyReference.cache
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 7\20ElementsOfTypeInteger\20ElementsOfTypeInteger\obj\Debug\20ElementsOfTypeInteger.exe
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 7\20ElementsOfTypeInteger\20ElementsOfTypeInteger\obj\Debug\20ElementsOfTypeInteger.pdb

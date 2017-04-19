@@ -1,0 +1,6 @@
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 4\PrintsThreeNumbersInThreeVirtual\PrintsThreeNumbersInThreeVirtual\bin\Debug\PrintsThreeNumbersInThreeVirtual.exe.config
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 4\PrintsThreeNumbersInThreeVirtual\PrintsThreeNumbersInThreeVirtual\bin\Debug\PrintsThreeNumbersInThreeVirtual.exe
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 4\PrintsThreeNumbersInThreeVirtual\PrintsThreeNumbersInThreeVirtual\bin\Debug\PrintsThreeNumbersInThreeVirtual.pdb
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 4\PrintsThreeNumbersInThreeVirtual\PrintsThreeNumbersInThreeVirtual\obj\Debug\PrintsThreeNumbersInThreeVirtual.csprojResolveAssemblyReference.cache
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 4\PrintsThreeNumbersInThreeVirtual\PrintsThreeNumbersInThreeVirtual\obj\Debug\PrintsThreeNumbersInThreeVirtual.exe
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 4\PrintsThreeNumbersInThreeVirtual\PrintsThreeNumbersInThreeVirtual\obj\Debug\PrintsThreeNumbersInThreeVirtual.pdb

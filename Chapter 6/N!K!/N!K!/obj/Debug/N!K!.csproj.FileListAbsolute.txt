@@ -1,0 +1,6 @@
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 6\N!K!\N!K!\bin\Debug\N!K!.exe.config
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 6\N!K!\N!K!\bin\Debug\N!K!.exe
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 6\N!K!\N!K!\bin\Debug\N!K!.pdb
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 6\N!K!\N!K!\obj\Debug\N!K!.csprojResolveAssemblyReference.cache
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 6\N!K!\N!K!\obj\Debug\N!K!.exe
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 6\N!K!\N!K!\obj\Debug\N!K!.pdb

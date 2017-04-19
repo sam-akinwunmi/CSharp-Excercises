@@ -1,0 +1,6 @@
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 7\MaximalSequenceOfConsecutiveEqual\MaximalSequenceOfConsecutiveEqual\bin\Debug\MaximalSequenceOfConsecutiveEqual.exe.config
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 7\MaximalSequenceOfConsecutiveEqual\MaximalSequenceOfConsecutiveEqual\bin\Debug\MaximalSequenceOfConsecutiveEqual.exe
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 7\MaximalSequenceOfConsecutiveEqual\MaximalSequenceOfConsecutiveEqual\bin\Debug\MaximalSequenceOfConsecutiveEqual.pdb
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 7\MaximalSequenceOfConsecutiveEqual\MaximalSequenceOfConsecutiveEqual\obj\Debug\MaximalSequenceOfConsecutiveEqual.csprojResolveAssemblyReference.cache
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 7\MaximalSequenceOfConsecutiveEqual\MaximalSequenceOfConsecutiveEqual\obj\Debug\MaximalSequenceOfConsecutiveEqual.exe
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 7\MaximalSequenceOfConsecutiveEqual\MaximalSequenceOfConsecutiveEqual\obj\Debug\MaximalSequenceOfConsecutiveEqual.pdb

@@ -1,0 +1,6 @@
+c:\users\samuela\documents\visual studio 2015\Projects\SumZero\SumZero\bin\Debug\SumZero.exe.config
+c:\users\samuela\documents\visual studio 2015\Projects\SumZero\SumZero\obj\Debug\SumZero.csprojResolveAssemblyReference.cache
+c:\users\samuela\documents\visual studio 2015\Projects\SumZero\SumZero\bin\Debug\SumZero.exe
+c:\users\samuela\documents\visual studio 2015\Projects\SumZero\SumZero\bin\Debug\SumZero.pdb
+c:\users\samuela\documents\visual studio 2015\Projects\SumZero\SumZero\obj\Debug\SumZero.exe
+c:\users\samuela\documents\visual studio 2015\Projects\SumZero\SumZero\obj\Debug\SumZero.pdb

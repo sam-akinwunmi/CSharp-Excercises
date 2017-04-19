@@ -1,0 +1,6 @@
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 3\DivisibleByBoth5and7\DivisibleByBoth5and7\bin\Debug\DivisibleByBoth5and7.exe.config
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 3\DivisibleByBoth5and7\DivisibleByBoth5and7\bin\Debug\DivisibleByBoth5and7.exe
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 3\DivisibleByBoth5and7\DivisibleByBoth5and7\bin\Debug\DivisibleByBoth5and7.pdb
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 3\DivisibleByBoth5and7\DivisibleByBoth5and7\obj\Debug\DivisibleByBoth5and7.csprojResolveAssemblyReference.cache
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 3\DivisibleByBoth5and7\DivisibleByBoth5and7\obj\Debug\DivisibleByBoth5and7.exe
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 3\DivisibleByBoth5and7\DivisibleByBoth5and7\obj\Debug\DivisibleByBoth5and7.pdb

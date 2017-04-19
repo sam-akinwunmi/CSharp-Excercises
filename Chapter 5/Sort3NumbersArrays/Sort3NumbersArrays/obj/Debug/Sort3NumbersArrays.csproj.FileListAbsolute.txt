@@ -1,0 +1,6 @@
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 5\Sort3NumbersArrays\Sort3NumbersArrays\bin\Debug\Sort3NumbersArrays.exe.config
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 5\Sort3NumbersArrays\Sort3NumbersArrays\bin\Debug\Sort3NumbersArrays.exe
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 5\Sort3NumbersArrays\Sort3NumbersArrays\bin\Debug\Sort3NumbersArrays.pdb
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 5\Sort3NumbersArrays\Sort3NumbersArrays\obj\Debug\Sort3NumbersArrays.exe
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 5\Sort3NumbersArrays\Sort3NumbersArrays\obj\Debug\Sort3NumbersArrays.pdb
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 5\Sort3NumbersArrays\Sort3NumbersArrays\obj\Debug\Sort3NumbersArrays.csprojResolveAssemblyReference.cache

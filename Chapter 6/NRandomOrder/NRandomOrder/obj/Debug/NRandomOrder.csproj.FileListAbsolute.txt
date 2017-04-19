@@ -1,0 +1,6 @@
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 6\NRandomOrder\NRandomOrder\bin\Debug\NRandomOrder.exe.config
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 6\NRandomOrder\NRandomOrder\bin\Debug\NRandomOrder.exe
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 6\NRandomOrder\NRandomOrder\bin\Debug\NRandomOrder.pdb
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 6\NRandomOrder\NRandomOrder\obj\Debug\NRandomOrder.csprojResolveAssemblyReference.cache
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 6\NRandomOrder\NRandomOrder\obj\Debug\NRandomOrder.exe
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 6\NRandomOrder\NRandomOrder\obj\Debug\NRandomOrder.pdb

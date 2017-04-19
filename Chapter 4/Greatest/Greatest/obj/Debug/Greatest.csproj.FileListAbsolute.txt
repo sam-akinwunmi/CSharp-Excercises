@@ -1,0 +1,6 @@
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 4\Greatest\Greatest\bin\Debug\Greatest.exe.config
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 4\Greatest\Greatest\bin\Debug\Greatest.exe
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 4\Greatest\Greatest\bin\Debug\Greatest.pdb
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 4\Greatest\Greatest\obj\Debug\Greatest.csprojResolveAssemblyReference.cache
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 4\Greatest\Greatest\obj\Debug\Greatest.exe
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 4\Greatest\Greatest\obj\Debug\Greatest.pdb

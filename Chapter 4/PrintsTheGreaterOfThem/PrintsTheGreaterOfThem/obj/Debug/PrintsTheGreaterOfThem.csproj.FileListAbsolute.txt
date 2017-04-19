@@ -1,0 +1,6 @@
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 4\PrintsTheGreaterOfThem\PrintsTheGreaterOfThem\bin\Debug\PrintsTheGreaterOfThem.exe.config
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 4\PrintsTheGreaterOfThem\PrintsTheGreaterOfThem\bin\Debug\PrintsTheGreaterOfThem.exe
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 4\PrintsTheGreaterOfThem\PrintsTheGreaterOfThem\bin\Debug\PrintsTheGreaterOfThem.pdb
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 4\PrintsTheGreaterOfThem\PrintsTheGreaterOfThem\obj\Debug\PrintsTheGreaterOfThem.csprojResolveAssemblyReference.cache
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 4\PrintsTheGreaterOfThem\PrintsTheGreaterOfThem\obj\Debug\PrintsTheGreaterOfThem.exe
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 4\PrintsTheGreaterOfThem\PrintsTheGreaterOfThem\obj\Debug\PrintsTheGreaterOfThem.pdb

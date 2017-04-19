@@ -1,0 +1,6 @@
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Lynne\LynnesFirstCode\LynnesFirstCode\bin\Debug\LynnesFirstCode.exe.config
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Lynne\LynnesFirstCode\LynnesFirstCode\obj\Debug\LynnesFirstCode.csprojResolveAssemblyReference.cache
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Lynne\LynnesFirstCode\LynnesFirstCode\bin\Debug\LynnesFirstCode.exe
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Lynne\LynnesFirstCode\LynnesFirstCode\bin\Debug\LynnesFirstCode.pdb
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Lynne\LynnesFirstCode\LynnesFirstCode\obj\Debug\LynnesFirstCode.exe
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Lynne\LynnesFirstCode\LynnesFirstCode\obj\Debug\LynnesFirstCode.pdb

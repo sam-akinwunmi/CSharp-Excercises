@@ -1,0 +1,6 @@
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 5\SubsetsWhoseSumIs0\SubsetsWhoseSumIs0\bin\Debug\SubsetsWhoseSumIs0.exe.config
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 5\SubsetsWhoseSumIs0\SubsetsWhoseSumIs0\bin\Debug\SubsetsWhoseSumIs0.exe
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 5\SubsetsWhoseSumIs0\SubsetsWhoseSumIs0\bin\Debug\SubsetsWhoseSumIs0.pdb
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 5\SubsetsWhoseSumIs0\SubsetsWhoseSumIs0\obj\Debug\SubsetsWhoseSumIs0.csprojResolveAssemblyReference.cache
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 5\SubsetsWhoseSumIs0\SubsetsWhoseSumIs0\obj\Debug\SubsetsWhoseSumIs0.exe
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 5\SubsetsWhoseSumIs0\SubsetsWhoseSumIs0\obj\Debug\SubsetsWhoseSumIs0.pdb

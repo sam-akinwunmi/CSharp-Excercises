@@ -1,0 +1,6 @@
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 5\PlusMinusIf\PlusMinusIf\bin\Debug\PlusMinusIf.exe.config
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 5\PlusMinusIf\PlusMinusIf\bin\Debug\PlusMinusIf.exe
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 5\PlusMinusIf\PlusMinusIf\bin\Debug\PlusMinusIf.pdb
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 5\PlusMinusIf\PlusMinusIf\obj\Debug\PlusMinusIf.csprojResolveAssemblyReference.cache
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 5\PlusMinusIf\PlusMinusIf\obj\Debug\PlusMinusIf.exe
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 5\PlusMinusIf\PlusMinusIf\obj\Debug\PlusMinusIf.pdb

@@ -1,0 +1,5 @@
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 2\ExchangeValues\ExchangeValues\bin\Debug\ExchangeValues.exe.config
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 2\ExchangeValues\ExchangeValues\bin\Debug\ExchangeValues.exe
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 2\ExchangeValues\ExchangeValues\bin\Debug\ExchangeValues.pdb
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 2\ExchangeValues\ExchangeValues\obj\Debug\ExchangeValues.exe
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 2\ExchangeValues\ExchangeValues\obj\Debug\ExchangeValues.pdb

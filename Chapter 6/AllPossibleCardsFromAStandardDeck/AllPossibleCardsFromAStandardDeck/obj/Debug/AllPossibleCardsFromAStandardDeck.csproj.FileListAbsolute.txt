@@ -1,0 +1,6 @@
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 6\AllPossibleCardsFromAStandardDeck\AllPossibleCardsFromAStandardDeck\bin\Debug\AllPossibleCardsFromAStandardDeck.exe.config
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 6\AllPossibleCardsFromAStandardDeck\AllPossibleCardsFromAStandardDeck\bin\Debug\AllPossibleCardsFromAStandardDeck.exe
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 6\AllPossibleCardsFromAStandardDeck\AllPossibleCardsFromAStandardDeck\bin\Debug\AllPossibleCardsFromAStandardDeck.pdb
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 6\AllPossibleCardsFromAStandardDeck\AllPossibleCardsFromAStandardDeck\obj\Debug\AllPossibleCardsFromAStandardDeck.csprojResolveAssemblyReference.cache
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 6\AllPossibleCardsFromAStandardDeck\AllPossibleCardsFromAStandardDeck\obj\Debug\AllPossibleCardsFromAStandardDeck.exe
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 6\AllPossibleCardsFromAStandardDeck\AllPossibleCardsFromAStandardDeck\obj\Debug\AllPossibleCardsFromAStandardDeck.pdb

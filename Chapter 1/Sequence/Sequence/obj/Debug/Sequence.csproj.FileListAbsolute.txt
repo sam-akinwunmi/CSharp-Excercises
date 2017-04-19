@@ -1,0 +1,5 @@
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 1\Sequence\Sequence\bin\Debug\Sequence.exe.config
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 1\Sequence\Sequence\bin\Debug\Sequence.exe
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 1\Sequence\Sequence\bin\Debug\Sequence.pdb
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 1\Sequence\Sequence\obj\Debug\Sequence.exe
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 1\Sequence\Sequence\obj\Debug\Sequence.pdb

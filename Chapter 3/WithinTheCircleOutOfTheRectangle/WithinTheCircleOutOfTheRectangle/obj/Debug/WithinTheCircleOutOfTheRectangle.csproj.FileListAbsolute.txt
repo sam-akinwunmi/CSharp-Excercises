@@ -1,0 +1,6 @@
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 3\WithinTheCircleOutOfTheRectangle\WithinTheCircleOutOfTheRectangle\bin\Debug\WithinTheCircleOutOfTheRectangle.exe.config
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 3\WithinTheCircleOutOfTheRectangle\WithinTheCircleOutOfTheRectangle\obj\Debug\WithinTheCircleOutOfTheRectangle.csprojResolveAssemblyReference.cache
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 3\WithinTheCircleOutOfTheRectangle\WithinTheCircleOutOfTheRectangle\bin\Debug\WithinTheCircleOutOfTheRectangle.exe
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 3\WithinTheCircleOutOfTheRectangle\WithinTheCircleOutOfTheRectangle\bin\Debug\WithinTheCircleOutOfTheRectangle.pdb
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 3\WithinTheCircleOutOfTheRectangle\WithinTheCircleOutOfTheRectangle\obj\Debug\WithinTheCircleOutOfTheRectangle.exe
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 3\WithinTheCircleOutOfTheRectangle\WithinTheCircleOutOfTheRectangle\obj\Debug\WithinTheCircleOutOfTheRectangle.pdb

@@ -1,0 +1,6 @@
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 6\PositiveIntegerNumberNMatrix\PositiveIntegerNumberNMatrix\bin\Debug\PositiveIntegerNumberNMatrix.exe.config
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 6\PositiveIntegerNumberNMatrix\PositiveIntegerNumberNMatrix\bin\Debug\PositiveIntegerNumberNMatrix.exe
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 6\PositiveIntegerNumberNMatrix\PositiveIntegerNumberNMatrix\bin\Debug\PositiveIntegerNumberNMatrix.pdb
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 6\PositiveIntegerNumberNMatrix\PositiveIntegerNumberNMatrix\obj\Debug\PositiveIntegerNumberNMatrix.csprojResolveAssemblyReference.cache
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 6\PositiveIntegerNumberNMatrix\PositiveIntegerNumberNMatrix\obj\Debug\PositiveIntegerNumberNMatrix.exe
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 6\PositiveIntegerNumberNMatrix\PositiveIntegerNumberNMatrix\obj\Debug\PositiveIntegerNumberNMatrix.pdb

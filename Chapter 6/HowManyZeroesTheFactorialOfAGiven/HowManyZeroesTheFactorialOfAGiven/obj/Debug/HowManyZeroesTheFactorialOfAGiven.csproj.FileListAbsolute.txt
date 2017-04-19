@@ -1,0 +1,6 @@
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 6\HowManyZeroesTheFactorialOfAGiven\HowManyZeroesTheFactorialOfAGiven\bin\Debug\HowManyZeroesTheFactorialOfAGiven.exe.config
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 6\HowManyZeroesTheFactorialOfAGiven\HowManyZeroesTheFactorialOfAGiven\bin\Debug\HowManyZeroesTheFactorialOfAGiven.exe
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 6\HowManyZeroesTheFactorialOfAGiven\HowManyZeroesTheFactorialOfAGiven\bin\Debug\HowManyZeroesTheFactorialOfAGiven.pdb
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 6\HowManyZeroesTheFactorialOfAGiven\HowManyZeroesTheFactorialOfAGiven\obj\Debug\HowManyZeroesTheFactorialOfAGiven.csprojResolveAssemblyReference.cache
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 6\HowManyZeroesTheFactorialOfAGiven\HowManyZeroesTheFactorialOfAGiven\obj\Debug\HowManyZeroesTheFactorialOfAGiven.exe
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 6\HowManyZeroesTheFactorialOfAGiven\HowManyZeroesTheFactorialOfAGiven\obj\Debug\HowManyZeroesTheFactorialOfAGiven.pdb

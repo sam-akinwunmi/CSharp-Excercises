@@ -1,0 +1,6 @@
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 6\ThreeLoopsRatherThanFour\ThreeLoopsRatherThanFour\bin\Debug\ThreeLoopsRatherThanFour.exe.config
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 6\ThreeLoopsRatherThanFour\ThreeLoopsRatherThanFour\bin\Debug\ThreeLoopsRatherThanFour.exe
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 6\ThreeLoopsRatherThanFour\ThreeLoopsRatherThanFour\bin\Debug\ThreeLoopsRatherThanFour.pdb
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 6\ThreeLoopsRatherThanFour\ThreeLoopsRatherThanFour\obj\Debug\ThreeLoopsRatherThanFour.csprojResolveAssemblyReference.cache
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 6\ThreeLoopsRatherThanFour\ThreeLoopsRatherThanFour\obj\Debug\ThreeLoopsRatherThanFour.exe
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 6\ThreeLoopsRatherThanFour\ThreeLoopsRatherThanFour\obj\Debug\ThreeLoopsRatherThanFour.pdb

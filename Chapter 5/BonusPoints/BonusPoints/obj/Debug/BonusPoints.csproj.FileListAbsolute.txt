@@ -1,0 +1,5 @@
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 5\BonusPoints\BonusPoints\bin\Debug\BonusPoints.exe.config
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 5\BonusPoints\BonusPoints\bin\Debug\BonusPoints.exe
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 5\BonusPoints\BonusPoints\bin\Debug\BonusPoints.pdb
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 5\BonusPoints\BonusPoints\obj\Debug\BonusPoints.exe
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 5\BonusPoints\BonusPoints\obj\Debug\BonusPoints.pdb

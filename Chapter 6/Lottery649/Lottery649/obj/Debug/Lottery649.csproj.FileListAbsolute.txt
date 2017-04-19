@@ -1,0 +1,5 @@
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 6\Lottery649\Lottery649\bin\Debug\Lottery649.exe.config
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 6\Lottery649\Lottery649\bin\Debug\Lottery649.exe
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 6\Lottery649\Lottery649\bin\Debug\Lottery649.pdb
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 6\Lottery649\Lottery649\obj\Debug\Lottery649.exe
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 6\Lottery649\Lottery649\obj\Debug\Lottery649.pdb

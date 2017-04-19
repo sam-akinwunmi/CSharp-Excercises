@@ -1,0 +1,5 @@
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 4\NSum\NSum\bin\Debug\NSum.exe.config
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 4\NSum\NSum\bin\Debug\NSum.exe
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 4\NSum\NSum\bin\Debug\NSum.pdb
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 4\NSum\NSum\obj\Debug\NSum.exe
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 4\NSum\NSum\obj\Debug\NSum.pdb

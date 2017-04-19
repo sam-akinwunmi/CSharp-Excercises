@@ -1,0 +1,6 @@
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 7\ReadsTwoArraysChecksWhetherTheyAre\ReadsTwoArraysChecksWhetherTheyAre\bin\Debug\ReadsTwoArraysChecksWhetherTheyAre.exe.config
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 7\ReadsTwoArraysChecksWhetherTheyAre\ReadsTwoArraysChecksWhetherTheyAre\bin\Debug\ReadsTwoArraysChecksWhetherTheyAre.exe
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 7\ReadsTwoArraysChecksWhetherTheyAre\ReadsTwoArraysChecksWhetherTheyAre\bin\Debug\ReadsTwoArraysChecksWhetherTheyAre.pdb
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 7\ReadsTwoArraysChecksWhetherTheyAre\ReadsTwoArraysChecksWhetherTheyAre\obj\Debug\ReadsTwoArraysChecksWhetherTheyAre.exe
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 7\ReadsTwoArraysChecksWhetherTheyAre\ReadsTwoArraysChecksWhetherTheyAre\obj\Debug\ReadsTwoArraysChecksWhetherTheyAre.pdb
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 7\ReadsTwoArraysChecksWhetherTheyAre\ReadsTwoArraysChecksWhetherTheyAre\obj\Debug\ReadsTwoArraysChecksWhetherTheyAre.csprojResolveAssemblyReference.cache

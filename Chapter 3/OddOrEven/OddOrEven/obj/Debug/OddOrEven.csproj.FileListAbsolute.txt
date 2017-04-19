@@ -1,0 +1,6 @@
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 3\OddOrEven\OddOrEven\bin\Debug\OddOrEven.exe.config
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 3\OddOrEven\OddOrEven\bin\Debug\OddOrEven.exe
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 3\OddOrEven\OddOrEven\bin\Debug\OddOrEven.pdb
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 3\OddOrEven\OddOrEven\obj\Debug\OddOrEven.csprojResolveAssemblyReference.cache
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 3\OddOrEven\OddOrEven\obj\Debug\OddOrEven.exe
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 3\OddOrEven\OddOrEven\obj\Debug\OddOrEven.pdb

@@ -1,0 +1,6 @@
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 1\AgeAfter10Years\AgeAfter10Years\bin\Debug\AgeAfter10Years.exe.config
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 1\AgeAfter10Years\AgeAfter10Years\obj\Debug\AgeAfter10Years.csprojResolveAssemblyReference.cache
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 1\AgeAfter10Years\AgeAfter10Years\bin\Debug\AgeAfter10Years.exe
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 1\AgeAfter10Years\AgeAfter10Years\bin\Debug\AgeAfter10Years.pdb
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 1\AgeAfter10Years\AgeAfter10Years\obj\Debug\AgeAfter10Years.exe
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 1\AgeAfter10Years\AgeAfter10Years\obj\Debug\AgeAfter10Years.pdb

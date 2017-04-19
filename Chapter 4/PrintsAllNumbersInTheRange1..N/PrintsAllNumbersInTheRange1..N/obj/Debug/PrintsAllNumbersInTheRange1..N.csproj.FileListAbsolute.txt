@@ -1,0 +1,5 @@
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 4\PrintsAllNumbersInTheRange1..N\PrintsAllNumbersInTheRange1..N\bin\Debug\PrintsAllNumbersInTheRange1._.N.exe.config
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 4\PrintsAllNumbersInTheRange1..N\PrintsAllNumbersInTheRange1..N\bin\Debug\PrintsAllNumbersInTheRange1._.N.exe
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 4\PrintsAllNumbersInTheRange1..N\PrintsAllNumbersInTheRange1..N\bin\Debug\PrintsAllNumbersInTheRange1._.N.pdb
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 4\PrintsAllNumbersInTheRange1..N\PrintsAllNumbersInTheRange1..N\obj\Debug\PrintsAllNumbersInTheRange1._.N.exe
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 4\PrintsAllNumbersInTheRange1..N\PrintsAllNumbersInTheRange1..N\obj\Debug\PrintsAllNumbersInTheRange1._.N.pdb

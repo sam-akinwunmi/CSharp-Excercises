@@ -1,0 +1,6 @@
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 4\ReadsThreeNumbersInt\ReadsThreeNumbersInt\bin\Debug\ReadsThreeNumbersInt.exe.config
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 4\ReadsThreeNumbersInt\ReadsThreeNumbersInt\bin\Debug\ReadsThreeNumbersInt.exe
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 4\ReadsThreeNumbersInt\ReadsThreeNumbersInt\bin\Debug\ReadsThreeNumbersInt.pdb
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 4\ReadsThreeNumbersInt\ReadsThreeNumbersInt\obj\Debug\ReadsThreeNumbersInt.csprojResolveAssemblyReference.cache
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 4\ReadsThreeNumbersInt\ReadsThreeNumbersInt\obj\Debug\ReadsThreeNumbersInt.exe
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 4\ReadsThreeNumbersInt\ReadsThreeNumbersInt\obj\Debug\ReadsThreeNumbersInt.pdb

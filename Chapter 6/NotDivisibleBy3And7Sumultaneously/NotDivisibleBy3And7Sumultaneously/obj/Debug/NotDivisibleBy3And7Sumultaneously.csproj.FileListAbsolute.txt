@@ -1,0 +1,6 @@
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 6\NotDivisibleBy3And7Sumultaneously\NotDivisibleBy3And7Sumultaneously\bin\Debug\NotDivisibleBy3And7Sumultaneously.exe.config
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 6\NotDivisibleBy3And7Sumultaneously\NotDivisibleBy3And7Sumultaneously\bin\Debug\NotDivisibleBy3And7Sumultaneously.exe
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 6\NotDivisibleBy3And7Sumultaneously\NotDivisibleBy3And7Sumultaneously\bin\Debug\NotDivisibleBy3And7Sumultaneously.pdb
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 6\NotDivisibleBy3And7Sumultaneously\NotDivisibleBy3And7Sumultaneously\obj\Debug\NotDivisibleBy3And7Sumultaneously.exe
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 6\NotDivisibleBy3And7Sumultaneously\NotDivisibleBy3And7Sumultaneously\obj\Debug\NotDivisibleBy3And7Sumultaneously.pdb
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 6\NotDivisibleBy3And7Sumultaneously\NotDivisibleBy3And7Sumultaneously\obj\Debug\NotDivisibleBy3And7Sumultaneously.csprojResolveAssemblyReference.cache

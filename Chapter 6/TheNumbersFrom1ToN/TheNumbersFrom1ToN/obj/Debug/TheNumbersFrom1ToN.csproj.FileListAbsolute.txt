@@ -1,0 +1,5 @@
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 6\TheNumbersFrom1ToN\TheNumbersFrom1ToN\bin\Debug\TheNumbersFrom1ToN.exe.config
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 6\TheNumbersFrom1ToN\TheNumbersFrom1ToN\bin\Debug\TheNumbersFrom1ToN.exe
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 6\TheNumbersFrom1ToN\TheNumbersFrom1ToN\bin\Debug\TheNumbersFrom1ToN.pdb
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 6\TheNumbersFrom1ToN\TheNumbersFrom1ToN\obj\Debug\TheNumbersFrom1ToN.exe
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 6\TheNumbersFrom1ToN\TheNumbersFrom1ToN\obj\Debug\TheNumbersFrom1ToN.pdb

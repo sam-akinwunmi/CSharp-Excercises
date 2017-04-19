@@ -1,0 +1,6 @@
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 5\ConvertsANumberInTheRange0-999ToWords\ConvertsANumberInTheRange0-999ToWords\bin\Debug\ConvertsANumberInTheRange0-999ToWords.exe.config
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 5\ConvertsANumberInTheRange0-999ToWords\ConvertsANumberInTheRange0-999ToWords\bin\Debug\ConvertsANumberInTheRange0-999ToWords.exe
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 5\ConvertsANumberInTheRange0-999ToWords\ConvertsANumberInTheRange0-999ToWords\bin\Debug\ConvertsANumberInTheRange0-999ToWords.pdb
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 5\ConvertsANumberInTheRange0-999ToWords\ConvertsANumberInTheRange0-999ToWords\obj\Debug\ConvertsANumberInTheRange0-999ToWords.csprojResolveAssemblyReference.cache
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 5\ConvertsANumberInTheRange0-999ToWords\ConvertsANumberInTheRange0-999ToWords\obj\Debug\ConvertsANumberInTheRange0-999ToWords.exe
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 5\ConvertsANumberInTheRange0-999ToWords\ConvertsANumberInTheRange0-999ToWords\obj\Debug\ConvertsANumberInTheRange0-999ToWords.pdb

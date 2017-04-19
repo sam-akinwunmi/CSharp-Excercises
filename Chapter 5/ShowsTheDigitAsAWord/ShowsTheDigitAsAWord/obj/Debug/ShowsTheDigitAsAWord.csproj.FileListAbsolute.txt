@@ -1,0 +1,5 @@
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 5\ShowsTheDigitAsAWord\ShowsTheDigitAsAWord\bin\Debug\ShowsTheDigitAsAWord.exe.config
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 5\ShowsTheDigitAsAWord\ShowsTheDigitAsAWord\bin\Debug\ShowsTheDigitAsAWord.exe
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 5\ShowsTheDigitAsAWord\ShowsTheDigitAsAWord\bin\Debug\ShowsTheDigitAsAWord.pdb
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 5\ShowsTheDigitAsAWord\ShowsTheDigitAsAWord\obj\Debug\ShowsTheDigitAsAWord.exe
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 5\ShowsTheDigitAsAWord\ShowsTheDigitAsAWord\obj\Debug\ShowsTheDigitAsAWord.pdb

@@ -1,0 +1,6 @@
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 4\SumPrecisionOf0.001\SumPrecisionOf0.001\bin\Debug\SumPrecisionOf0.001.exe.config
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 4\SumPrecisionOf0.001\SumPrecisionOf0.001\bin\Debug\SumPrecisionOf0.001.exe
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 4\SumPrecisionOf0.001\SumPrecisionOf0.001\bin\Debug\SumPrecisionOf0.001.pdb
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 4\SumPrecisionOf0.001\SumPrecisionOf0.001\obj\Debug\SumPrecisionOf0.001.csprojResolveAssemblyReference.cache
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 4\SumPrecisionOf0.001\SumPrecisionOf0.001\obj\Debug\SumPrecisionOf0.001.exe
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 4\SumPrecisionOf0.001\SumPrecisionOf0.001\obj\Debug\SumPrecisionOf0.001.pdb

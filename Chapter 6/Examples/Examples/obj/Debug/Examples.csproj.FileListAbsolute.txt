@@ -1,0 +1,6 @@
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 6\Examples\Examples\bin\Debug\Examples.exe.config
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 6\Examples\Examples\bin\Debug\Examples.exe
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 6\Examples\Examples\bin\Debug\Examples.pdb
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 6\Examples\Examples\obj\Debug\Examples.csprojResolveAssemblyReference.cache
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 6\Examples\Examples\obj\Debug\Examples.exe
+C:\Users\samuela\Documents\Visual Studio 2015\Projects\Chapter 6\Examples\Examples\obj\Debug\Examples.pdb
